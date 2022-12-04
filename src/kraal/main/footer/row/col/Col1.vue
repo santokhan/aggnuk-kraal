@@ -1,1 +1,7 @@
-<template><td class="text-end">2 mins ago</td></template>
+<template>
+    <td>
+        <div class="flex items-center gap-4">
+            <slot></slot>
+        </div>
+    </td>
+</template>

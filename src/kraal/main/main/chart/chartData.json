@@ -1,0 +1,22 @@
+[
+  [
+    ["Apple", 9.8, "#3EB6C7"],
+    ["Robinhood", 5.0, "#3EB6C7"]
+  ],
+  [
+    ["Coinbase Pro", 7.5, "#51ABD1"],
+    ["Etrade", 5.1, "#51ABD1"]
+  ],
+  [
+    ["Stripe", 10.4, "#2D7DC7"],
+    ["Figma", 19.5, "#2D7DC7"]
+  ],
+  [
+    ["Founders Fund XII", 11.7, "#745CD6"],
+    ["Sequoia Crypto Fund II", 10.4, "#745CD6"]
+  ],
+  [
+    ["123 Market St ", 15.6, "#B45DAB"],
+    ["Figma", 3.6, "#B45DAB"]
+  ]
+]

@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="gOVb_paxHbfhz6_G4gOD" name="Page-1">
+        <mxGraphModel dx="681" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: consolas, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;&quot;Apple&quot;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #b5cea8&quot;&gt;5.8&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="90" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: consolas, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;&quot;Robinhood&quot;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #b5cea8&quot;&gt;4.0&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="140" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="5.8 / (5.8 + 4.0) * 100&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="110" width="160" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

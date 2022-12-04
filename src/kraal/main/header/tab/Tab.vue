@@ -3,5 +3,7 @@
 export default {};
 </script>
 <template>
-  <div class="flex gap-4"></div>
+  <button type="button" class="flex gap-3 items-center px-5 py-2 border text-base border-transparent hover:bg-gray-200 rounded-full whitespace-nowrap">
+    <slot></slot>
+  </button>
 </template>
