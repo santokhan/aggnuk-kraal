@@ -1,0 +1,81 @@
+First: Bank Account
+...
+Last: Email Form
+
+
+1. Bank account and kids savings
+    Savings Account
+    529 plan
+    Company Stock
+    Checking account
+    Educational IRA
+    Private Equity
+    Non-retirement investments/Brokerage account
+    Custodial account
+    Ownerships Stake in your business or another business
+
+
+2. Property and Other Assets
+    Primary residence
+    Inherited IRA
+    Vacation Property
+    Investment Property 
+    Collectibles
+    Cash Value Life Insurance
+    Revocable Trust
+    Irrevocable trust (if you’re the beneficiary)
+    Vehicles (if not a lease)
+
+
+3. These Are Retirement Account
+    401k account
+    IRA – Traditional, Rollover, Roth, SEP
+    403b account
+    Pension Plan
+    457 account
+    Profit Sharing Plan
+
+
+4. Mortgage and other loans
+    Mortgage
+    Home equity loan
+    HELOC (home equity line of credit)
+    Line of credit
+
+
+5. Credit cards and other debt
+    Credit Cards
+    Auto loan (or future lease payments added up)
+    Financed purchases (furniture, appliances, electronics, cell phone)
+    Past Due Bills
+    Money owed to family or friends
+    Back taxes owed to IRS
+    Private student loans
+    Personal loans owed to a bank or financial institution
+
+
+---------------------------
+
+
+1. How prepared are you for retirement financially?
+    1
+    2
+    3
+    4
+    5
+
+2. 
+
+3. What percent of your income do you save towards retirement?
+
+4. How much have you currently saved in your retirement accounts (401k IRA etc) best estimate
+
+5. 
+
+6. At what max age do you wish to retire?
+    65
+    67
+    70
+    75+
+
+7. When were you born? Drop-down of years (with checker for reasonable between 80yrs ago and 14 years ago

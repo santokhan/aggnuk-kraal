@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Brown LL', sans-serif;
+    src: url('Brown-ThinBackslanted.eot');
+    src: local('Brown-ThinBackslanted'),
+        url('Brown-ThinBackslanted.eot?#iefix') format('embedded-opentype'),
+        url('Brown-ThinBackslanted.woff2') format('woff2'),
+        url('Brown-ThinBackslanted.woff') format('woff'),
+        url('Brown-ThinBackslanted.ttf') format('truetype');
+}
+
+.brown-ll {
+    font-family: 'Brown LL', sans-serif;
+}

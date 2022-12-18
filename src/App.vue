@@ -5,3 +5,4 @@ import Kraal from "./kraal/Kraal.vue";
 <template>
   <Kraal></Kraal>
 </template>
+
